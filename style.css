@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.btns {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2em;
+}
+button {
+  padding: 6px;
+}
+
+.cities {
+  background-color: teal;
+  color: white;
+  margin-top: 2em;
+  padding: 10px 25px;
+  display: none;
+}
